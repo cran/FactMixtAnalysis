@@ -1,0 +1,14 @@
+d82d4fb295bc8b532691cc6157166656 *DESCRIPTION
+50c9812e8e2db87904040baea48f2780 *NAMESPACE
+0fe2b4928ea2ba002af039e394d72955 *R/fma.R
+c4eedf0a6bc9497b9f6422713346278c *R/fma.em.alg.R
+8ee3f7ae5e3112fd5193b30ab065d99c *R/mapClass.R
+61aab8992c4a471a3e5986eb99c4bf01 *R/misc.R
+f0159660bc1604d88c0f9fb3551c3af7 *R/pi.greco.grad.R
+c7dc4d9d264e7c6c77f8bc51e1427494 *R/pi.greco.hess.R
+34c594e69cb49a1644d6cfe58fb87cf5 *man/fma.Rd
+bc87a7132b3c60358b3cd9bce224915a *man/fma.em.alg.Rd
+75f26379ccd481d3104defaa5ba3f661 *man/mapClass.Rd
+534543a36fa51411d1be074389c28c85 *man/misc.Rd
+29c714d77f5a1838cb2e7fa6b2f42599 *man/pi.greco.grad.Rd
+a98b1fbb10939d6784213722a90ff0b9 *man/pi.greco.hess.Rd
